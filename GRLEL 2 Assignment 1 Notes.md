@@ -1,0 +1,65 @@
+References in Conversation Between Experts and Novices (Isaacs and Clark, 1987)
+
+- Introduction
+	- People know different amounts about the topic-- in order to successfully reference, they must assess and accommodate the interlocutor's expertise
+	- Experts and novices adjusted their referring accordingly, and novices acquired knowledge from experts
+- Background
+	- Appeal to mutual knowledge, beliefs, assumptions -> common ground
+		- When the common ground expands, more referring expressions become available
+	- Collaborative theory of reference -> speakers try to establish with partners the mutual belief that they have understood the reference
+	- Three part accommodation process -> assessing, supplying, and acquiring expertise
+	- (1) Assessing -> Can ask directly, but often apparent just from the specificity of the references employed
+	- (2) Supplying -> Trying to introduce the expertise into the common ground so it can be easily referenced at a later point in the conversation
+	- (3) Acquiring -> Novices elicit or absorb expertise when they realize the interlocutor is an expert
+- Basic experiment design
+	- Pairs of students, either both experts, both novices, or one expert and one novice (where expert = New Yorker, novice = not New Yorker)
+	- Within each pair, a "director" had to describe to a "matcher" the order of ten postcards featuring landmarks in New York City (each partner did not know the other partner's level of expertise)
+	- Four sets of pairs -> both experts, both novices, expert director/novice matcher, novice director/expert matcher
+	- Testing two main categories of expertise -> knowledge of proper names (i.e. Citicorp building rather than "building with slanted roof") and perspective (i.e. referring to the landmark itself/features that might not be explicitly pictured, vs referring to the image)
+	- Completed six trials, to see how the referring process evolved as more common ground was negotiated 
+- Results: Efficiency
+	- Total number of words used decreased from each trial to the next, across all combinations of expertise
+	- Total number of words was less when both partners were experts (and in general, when the director was an expert compared to when the director was a novice)
+	- Efficiency also improved in later trials by other metrics: average length of the director's first turn in the trial, and total number of turns needed per postcard (meaning the partners didn't need as much clarification on whether the other had indeed recovered the reference)
+- Results: Turn-by-turn referential process
+	-  Speaker presents a referring expression, and then both partners clarify/request clarification until both are satisfied that the reference is acceptable. Analysis of referential process illuminates this process:
+	- Introduction of proper names
+		- Name alone (N), description alone (D), or name and description (N+D)
+		- Some confounds since Yankee Stadium, Brooklyn Bridge etc have a description in their name, which makes most of the other options easier to rule out
+		- Proper names are equally informative and less cumbersome than descriptions, if the names are mutually known -> this was verified in the results, where expert directors introduced proper names much more often than novices, and experts used proper names with other experts more than they did with novices
+		- Expert-expert and novice-novice pairs tended to maintain the level of proper name references across trials, but mixed pairs used more proper name references in later trials once the expert expanded the CG
+		- Experts made N+D references more often with novices (and just N with experts), and made fewer N+D references in later trials
+		- Novices also made fewer N+D references in later trials with experts, once they no longer needed to confirm the proper name with a description (and it declined even more for novices to other novices, since they apparently thought the proper names they did know were so obvious that they didn't require further clarification)
+	- When did the knowledge transfer take place?
+		- Apparently, within the first couple postcards of the very first trial
+		- Unlikely to have been identifiable just from the accent -> confirmed by a separate trial where NYers and non-NYers were able to identify expertise of the participants from the transcript of just the first two postcards
+	- Assessing expertise -> Director gives the maximally efficient fully informative reference they have available, and then the matcher can accept, add an additional name/description, or ask for more information
+		- Experts can identify one another with a name reference, and then an ack or ack+name
+		- Novice directors demonstrate lack of expertise by using D alone in original reference
+		- Novice matchers demonstrate lack of expertise by confirming with D alone, not introducing N when director failed to do so, only acking D when offered N+D, or asked for clarification
+	- Supplying and acquiring expertise 
+		- Novices started using N when experts provided N or N+D in response to D
+		- Experts correct or corroborate proper names provided by experts or novices
+		- Novices can't learn all the names at once (and experts recognized this) -> novices dropped descriptions once they were confident in the names
+		- So in summation, both participants gave the maximally efficient expression that was available according to their knowledge, and partners could identify the other's expertise level by how expert the referring expression they chose was
+- Results: Perspective
+	- Novices can only use what they see in the picture and what they know about landmarks like it (and for example, a general knowledge of buildings isn't useful to distinguish Rockefeller from another similar building without any specific knowledge) so they prefer to refer to the picture
+	- Experts can draw on unpictured knowledge of the location, but will focus on the picture if they identify that the interlocutor is a novice
+	- Picture and place references -> "number 11 is chinatown" vs "the seventh one is a picture of rockefeller center"
+		- Place references are more efficient than picture references, so they are preferred when it's CG
+		- Results show that place references are preferred in later trials, and with higher expertise (though atp picture references were so rare, the difference wasn't significant)
+	- Other ways of taking a place vs picture perspective besides place and picture references -> ie "in the upper right hand corner, there's a marina"
+		- Rater made judgments on whether it was a place or picture perspective (generally a picture perspective was a picture reference, anything spatial on the actual card, or vantage point)
+		- In general, place references were preferred by and to experts
+		- Experts more likely than novices to refer to features of the landmark that are distinguishing but not in the actual image, and novices would refer to features that were in the picture but not particularly salient to identifying the landmark in general
+	- Definite vs indefinite reference -> by some theories, definite references should only be used when they are both readily and mutually identifiable. 
+		- Used trial 1 to establish readily accessible references, then used them in further trials. So for example, "a fountain" could become "the fountain" once the partners established that this was a relevant description
+		- General pattern of experts/novices persisted here too
+		- Initial picture references (when the landmark wasn't mutually identifiable) tended to be indefinite
+- Conclusion
+	- Overall strategy -> Adjust references to the level of expertise displayed by your partner
+	- Two reasons why -> use specific information only if your belief/knowledge permits it, use more efficient communication when available
+	- Four main cues -> proper names, definite reference, place reference, place perspective 
+	- Probably weren't reasoning directly about knowledge of NYC, just taking the same perspective as they synchronize on the task and establish that references have been understood
+	- Further work -> change the stakes/stringency of the situation? In this case, the task was very focused on getting all the references correct
+	- 
